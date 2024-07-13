@@ -101,7 +101,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 #### `npm run start`
 
-This will allow you to runs the server in the development mode.
+This will allow you to runs the server in the development mode!
 
 
 <p>&nbsp;</p>
